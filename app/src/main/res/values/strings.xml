@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nim_a11_2018_11168">NIM : A11.2018.11168</string>
+    <string name="nama_zhazha_ilkhafia_izzani">NAMA : Zhazha Ilkhafia Izzani</string>
+    <string name="alamat_pladen_rt_01_01_jekulo_kudus">ALAMAT : Pladen RT 01/01 Jekulo, Kudus</string>
+    <string name="hobby_badminton">HOBBY : Badminton</string>
+    <string name="todo">TODO</string>
+    <string name="deskripsi_mahasiswa_teknik_informatika">DESKRIPSI : Mahasiswa Teknik Informatika</string>
+    <string name="telepon_saya">TELEPON SAYA</string>
+    <string name="email">EMAIL</string>
+    <string name="buka_alamat">BUKA ALAMAT</string>
+</resources>
